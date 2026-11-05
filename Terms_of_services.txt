@@ -1,0 +1,88 @@
+# TERMS OF SERVICE
+
+**Developer:** BUSYLIFE  
+**Effective Date:** 5 November 2026  
+**Contact:** ramcse73@gmail.com
+
+## 1. Acceptance of Terms
+
+Welcome to BUSYLIFE applications.
+
+These Terms of Service apply to mobile applications and games developed and published by BUSYLIFE.
+
+By downloading or using any of our applications, you agree to these Terms.
+
+## 2. Use of Our Applications
+
+Our applications are provided for entertainment and personal use.
+
+You agree not to:
+- Use our applications for unlawful activities.
+- Copy, modify or redistribute our applications without permission.
+- Attempt to damage, hack or misuse our applications.
+- Use cheats or unauthorized tools to manipulate gameplay.
+
+## 3. Intellectual Property
+
+Our applications may contain original software, designs, graphics, animations, sounds, text and other content owned by or properly licensed to BUSYLIFE.
+
+You may not copy, reproduce, distribute or commercially use our application content without permission from the applicable rights holder.
+
+Third-party trademarks, services and materials remain the property of their respective owners.
+
+## 4. Advertisements and Third-Party Services
+
+Some of our applications may display advertisements through third-party services such as Google AdMob.
+
+Third-party services are governed by their own terms and privacy policies.
+
+We are not responsible for the content or services provided by external websites or third parties.
+
+## 5. Privacy
+
+Your privacy is important to us.
+
+Please read our Privacy Policy to understand how information may be collected, used and handled by our applications.
+
+**Privacy Policy:**  
+https://raminfoo.github.io/privacy-policy.html
+
+## 6. Application Updates and Availability
+
+We may update, improve, modify or discontinue features of our applications when necessary.
+
+We do not guarantee that every application will always be available or work without interruptions on every device.
+
+## 7. Game Progress and Data
+
+Some applications may store scores, settings and game progress on your device.
+
+Uninstalling an application or clearing its data may result in the loss of saved progress.
+
+## 8. Disclaimer
+
+Our applications are provided for entertainment purposes.
+
+We aim to provide a good user experience but cannot guarantee that applications will always be error-free or available.
+
+Nothing in these Terms removes any rights you have under applicable consumer protection laws.
+
+## 9. Limitation of Liability
+
+To the extent permitted by applicable law, BUSYLIFE is not responsible for indirect losses resulting from the use of our applications, including loss of locally stored game progress.
+
+This does not exclude liability that cannot legally be excluded.
+
+## 10. Changes to These Terms
+
+We may update these Terms from time to time.
+
+The latest version will be published on our website. Continued use of our applications after an update means you accept the revised Terms, where permitted by law.
+
+## 11. Contact Us
+
+For questions or support, contact:
+
+**BUSYLIFE**  
+Email: ramcse73@gmail.com  
+Privacy Policy: https://raminfoo.github.io/privacy-policy.html
