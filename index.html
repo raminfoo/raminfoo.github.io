@@ -1,51 +1,354 @@
 <!DOCTYPE html>
 
 <html lang="en">
+
+<body>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BUSYLIFE - Official Developer Website</title>
+    <meta name="theme-color" content="#101828">
+
+    <title>About Us | BUSYLIFE</title>
+
+    <meta name="description"
+          content="BUSYLIFE is an independent digital product and software development brand focused on creating innovative, engaging, and user-friendly digital experiences.">
+
+    <meta name="robots" content="index, follow">
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background: #f5f7fa;
+            color: #344054;
+            line-height: 1.8;
+        }
+
+        .header {
+            background: #101828;
+            color: #ffffff;
+            padding: 22px 8%;
+        }
+
+        .header-content {
+            max-width: 1150px;
+            margin: auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .brand {
+            font-size: 25px;
+            font-weight: 800;
+            letter-spacing: 2px;
+            color: #ffffff;
+        }
+
+        .header-label {
+            font-size: 13px;
+            color: #d0d5dd;
+            letter-spacing: 1px;
+        }
+
+        .hero {
+            background: linear-gradient(135deg, #101828, #253858);
+            color: #ffffff;
+            padding: 85px 20px 90px;
+            text-align: center;
+        }
+
+        .hero-content {
+            max-width: 850px;
+            margin: auto;
+        }
+
+        .hero h1 {
+            font-size: 42px;
+            line-height: 1.3;
+            margin-bottom: 20px;
+            font-weight: 700;
+        }
+
+        .hero p {
+            font-size: 18px;
+            color: #d0d5dd;
+        }
+
+        .container {
+            max-width: 1050px;
+            margin: -35px auto 60px;
+            padding: 0 20px;
+            position: relative;
+        }
+
+        .content-card {
+            background: #ffffff;
+            border-radius: 12px;
+            padding: 50px;
+            box-shadow: 0 8px 30px rgba(16, 24, 40, 0.06);
+        }
+
+        section {
+            margin-bottom: 42px;
+        }
+
+        section:last-child {
+            margin-bottom: 0;
+        }
+
+        h2 {
+            font-size: 23px;
+            color: #101828;
+            margin-bottom: 15px;
+            font-weight: 700;
+        }
+
+        h2::after {
+            content: "";
+            display: block;
+            width: 42px;
+            height: 3px;
+            background: #3b82f6;
+            margin-top: 10px;
+            border-radius: 5px;
+        }
+
+        p {
+            font-size: 15px;
+            margin-bottom: 14px;
+            color: #475467;
+        }
+
+        .services {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 18px;
+            margin-top: 22px;
+        }
+
+        .service-item {
+            background: #f8fafc;
+            border: 1px solid #eaecf0;
+            border-radius: 9px;
+            padding: 22px;
+        }
+
+        .service-item h3 {
+            color: #101828;
+            font-size: 16px;
+            margin-bottom: 8px;
+        }
+
+        .service-item p {
+            font-size: 14px;
+            margin: 0;
+        }
+
+        .closing {
+            background: #f0f5ff;
+            border-left: 4px solid #3b82f6;
+            padding: 22px;
+            border-radius: 5px;
+        }
+
+        .closing p {
+            margin: 0;
+        }
+
+        .tagline {
+            text-align: center;
+            margin-top: 35px;
+            font-size: 19px;
+            font-weight: 700;
+            color: #1d4ed8;
+            letter-spacing: 0.3px;
+        }
+
+        footer {
+            background: #101828;
+            color: #d0d5dd;
+            text-align: center;
+            padding: 25px 15px;
+            font-size: 13px;
+        }
+
+        @media (max-width: 650px) {
+            .header {
+                padding: 18px 20px;
+            }
+
+            .brand {
+                font-size: 21px;
+            }
+
+            .header-label {
+                font-size: 11px;
+            }
+
+            .hero {
+                padding: 65px 20px 75px;
+            }
+
+            .hero h1 {
+                font-size: 30px;
+            }
+
+            .hero p {
+                font-size: 15px;
+            }
+
+            .content-card {
+                padding: 28px 22px;
+            }
+
+            .services {
+                grid-template-columns: 1fr;
+            }
+
+            h2 {
+                font-size: 21px;
+            }
+        }
+    </style>
 </head>
+
 <body>
 
-<h1>BUSYLIFE</h1>
+    <header class="header">
+        <div class="header-content">
+            <div class="brand">BUSYLIFE</div>
+            <div class="header-label">OFFICIAL WEBSITE</div>
+        </div>
+    </header>
 
-<p>Official Developer Website</p>
+    <main>
 
-<h3>Important Links</h3>
+        <div class="hero">
+            <div class="hero-content">
+                <h1>Creating Meaningful Digital Experiences</h1>
+                <p>
+                    Innovation, creativity, and technology come together
+                    to create simple, engaging, and meaningful digital products.
+                </p>
+            </div>
+        </div>
 
-<p>
-Creating Meaningful Digital Experiences
+        <div class="container">
+            <div class="content-card">
 
-About Us
+                <section>
+                    <h2>About Us</h2>
+                    <p>
+                        BUSYLIFE is an independent digital product and
+                        software development brand focused on creating
+                        innovative, engaging, and user-friendly digital
+                        experiences.
+                    </p>
+                    <p>
+                        We believe technology should make everyday life
+                        simpler, smarter, and more enjoyable. Our focus
+                        is on developing thoughtfully designed applications,
+                        interactive experiences, and digital products that
+                        combine functionality, creativity, and quality.
+                    </p>
+                </section>
 
-BUSYLIFE is an independent digital product and software development brand focused on creating innovative, engaging, and user-friendly digital experiences.
+                <section>
+                    <h2>Our Mission</h2>
+                    <p>
+                        Our mission is to deliver accessible, reliable,
+                        and engaging digital products that bring value
+                        to users across different age groups and interests.
+                    </p>
+                </section>
 
-We believe technology should make everyday life simpler, smarter, and more enjoyable. Our focus is on developing thoughtfully designed applications, interactive experiences, and digital products that combine functionality, creativity, and quality.
+                <section>
+                    <h2>What We Do</h2>
 
-Our Mission
+                    <div class="services">
 
-Our mission is to deliver accessible, reliable, and engaging digital products that bring value to users across different age groups and interests.
+                        <div class="service-item">
+                            <h3>Mobile Application Development</h3>
+                            <p>
+                                Building intuitive and user-friendly
+                                Android applications.
+                            </p>
+                        </div>
 
-What We Do
+                        <div class="service-item">
+                            <h3>Casual Game Development</h3>
+                            <p>
+                                Creating entertaining, interactive,
+                                and thoughtfully designed games.
+                            </p>
+                        </div>
 
-Mobile Application Development: Building intuitive and user-friendly Android applications.
+                        <div class="service-item">
+                            <h3>Digital Product Innovation</h3>
+                            <p>
+                                Exploring creative ideas and transforming
+                                them into practical digital experiences.
+                            </p>
+                        </div>
 
-Casual Game Development: Creating entertaining, interactive, and thoughtfully designed games.
+                        <div class="service-item">
+                            <h3>User Experience &amp; Design</h3>
+                            <p>
+                                Prioritizing usability, visual quality,
+                                performance, and simplicity.
+                            </p>
+                        </div>
 
-Digital Product Innovation: Exploring creative ideas and transforming them into practical digital experiences.
+                    </div>
+                </section>
 
-User Experience & Design: Prioritizing usability, visual quality, performance, and simplicity.
+                <section>
+                    <h2>Our Commitment</h2>
+                    <p>
+                        At BUSYLIFE, we are committed to continuous
+                        improvement, responsible development, and
+                        delivering products that meet high standards
+                        of quality, usability, and reliability.
+                    </p>
+                    <p>
+                        We strive to create digital experiences that
+                        users can enjoy, trust, and return to.
+                    </p>
+                </section>
 
-Our Commitment
+                <div class="closing">
+                    <p>
+                        Our commitment is to build digital products
+                        with purpose, attention to detail, and a
+                        consistent focus on user satisfaction.
+                    </p>
+                </div>
 
-At BUSYLIFE, we are committed to continuous improvement, responsible development, and delivering products that meet high standards of quality, usability, and reliability.
+                <div class="tagline">
+                    BUSYLIFE — Innovation Through Simplicity.
+                </div>
 
-We strive to create digital experiences that users can enjoy, trust, and return to.
+            </div>
+        </div>
 
-BUSYLIFE — Innovation Through Simplicity.
+    </main>
 
-</p>
+    <footer>
+        &copy; <span id="year"></span> BUSYLIFE. All rights reserved.
+    </footer>
+
+    <script>
+        document.getElementById("year").textContent =
+            new Date().getFullYear();
+    </script>
+
+</body>
 
 <p>
     <a href="https://raminfoo.github.io/privacy-policy.html">
